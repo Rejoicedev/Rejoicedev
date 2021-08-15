@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rejoicedev
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning UI/UX with ZURI
 - 💞️ I’m looking to collaborate with individuals who are into tech.
 - 📫 You can reach me on email; ekemezierejoicec@gmail.com
 - ✨ tel; 08151975767
